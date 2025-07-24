@@ -1,0 +1,194 @@
+{
+  "inflation": {
+    "definition": "A general increase in prices and a fall in the purchasing value of money.",
+    "example": "Inflation caused food prices to rise significantly over the year."
+  },
+  "gdp": {
+    "definition": "Gross Domestic Product – the total market value of all goods and services produced in a country in a specific time period.",
+    "example": "Nigeria's GDP increased by 3.2% in the last quarter."
+  },
+  "monetary policy": {
+    "definition": "The process by which a central bank controls the money supply, often targeting an inflation rate or interest rate.",
+    "example": "The Central Bank used monetary policy to reduce inflation."
+  },
+  "fiscal policy": {
+    "definition": "Government decisions about taxation and spending to influence the economy.",
+    "example": "The government introduced a new fiscal policy to boost employment."
+  },
+  "demand": {
+    "definition": "The quantity of a good or service that consumers are willing and able to purchase at various prices.",
+    "example": "Demand for laptops increased during the pandemic."
+  },
+  "supply": {
+    "definition": "The quantity of a good or service that producers are willing to offer at various prices.",
+    "example": "Due to a poor harvest, the supply of wheat decreased."
+  },
+  "opportunity cost": {
+    "definition": "The value of the next best alternative foregone when a decision is made.",
+    "example": "Choosing to study economics had the opportunity cost of not taking engineering."
+  },
+  "scarcity": {
+    "definition": "Limited resources in comparison to unlimited human wants.",
+    "example": "Scarcity forces societies to make choices about how to allocate resources."
+  },
+  "interest rate": {
+    "definition": "The percentage charged on borrowed money or earned on savings.",
+    "example": "The central bank increased the interest rate to combat inflation."
+  },
+  "unemployment": {
+    "definition": "The condition where people able and willing to work cannot find jobs.",
+    "example": "Youth unemployment remains a major concern in many developing countries."
+  },
+  "recession": {
+    "definition": "A significant decline in economic activity lasting more than a few months.",
+    "example": "The economy entered a recession after two consecutive quarters of GDP decline."
+  },
+  "economic growth": {
+    "definition": "An increase in the production of goods and services over time.",
+    "example": "Developing nations aim for sustained economic growth to improve living standards."
+  },
+  "budget deficit": {
+    "definition": "When government spending exceeds its revenue.",
+    "example": "The country ran a budget deficit due to high infrastructure spending."
+  },
+  "trade balance": {
+    "definition": "The difference between a country's exports and imports.",
+    "example": "A negative trade balance means the country imports more than it exports."
+  },
+  "capital": {
+    "definition": "Man-made resources used in the production of goods and services.",
+    "example": "Machines and factories are examples of capital."
+  },
+  "labor": {
+    "definition": "Human effort used in production.",
+    "example": "Skilled labor is vital for a country's development."
+  },
+  "entrepreneurship": {
+    "definition": "The act of starting and managing a business, taking on financial risks.",
+    "example": "Entrepreneurship drives innovation and job creation."
+  },
+  "microeconomics": {
+    "definition": "The study of individual economic units like households and firms.",
+    "example": "Microeconomics focuses on how consumers make spending decisions."
+  },
+  "macroeconomics": {
+    "definition": "The study of the economy as a whole, including inflation, growth, and unemployment.",
+    "example": "Macroeconomics helps governments set national economic policy."
+  },
+  "market equilibrium": {
+    "definition": "The point where demand equals supply.",
+    "example": "Market equilibrium determines the price and quantity of goods sold."
+  },
+  "elasticity": {
+    "definition": "A measure of how much demand or supply changes in response to a change in price.",
+    "example": "Petrol has inelastic demand because consumers need it regardless of price."
+  },
+  "perfect competition": {
+    "definition": "A market structure where many firms sell identical products and no single firm can influence the market price.",
+    "example": "Agricultural products often operate in perfect competition."
+  },
+  "monopoly": {
+    "definition": "A market with only one seller of a product with no close substitutes.",
+    "example": "Electric utilities often function as monopolies in their region."
+  },
+  "oligopoly": {
+    "definition": "A market dominated by a few large suppliers.",
+    "example": "The airline industry is an example of an oligopoly."
+  },
+  "subsidy": {
+    "definition": "A financial benefit given by the government to reduce costs for producers or consumers.",
+    "example": "Farmers receive subsidies to encourage food production."
+  },
+  "tax": {
+    "definition": "A compulsory financial charge imposed by a government.",
+    "example": "Income tax is collected to fund public services."
+  },
+  "inflation targeting": {
+    "definition": "A monetary policy strategy to keep inflation within a specified range.",
+    "example": "The central bank aims for 2% inflation targeting annually."
+  },
+  "aggregate demand": {
+    "definition": "The total demand for goods and services in an economy.",
+    "example": "Government spending boosts aggregate demand."
+  },
+  "aggregate supply": {
+    "definition": "The total supply of goods and services in an economy.",
+    "example": "Rising wages can affect aggregate supply by increasing production costs."
+  },
+  "exchange rate": {
+    "definition": "The value of one currency for the purpose of conversion to another.",
+    "example": "The exchange rate of the naira against the dollar fluctuated in 2024."
+  },
+  "foreign direct investment": {
+    "definition": "Investment made by a company or individual in one country in business interests in another country.",
+    "example": "FDI increased due to favorable government policies."
+  },
+  "comparative advantage": {
+    "definition": "The ability of a country to produce a good at a lower opportunity cost than another.",
+    "example": "Nigeria has a comparative advantage in oil production."
+  },
+  "public goods": {
+    "definition": "Goods that are non-excludable and non-rivalrous, such as national defense.",
+    "example": "Street lighting is a typical public good."
+  },
+  "externalities": {
+    "definition": "Side effects of economic activity not reflected in market prices.",
+    "example": "Air pollution is a negative externality of factory operations."
+  },
+  "utility": {
+    "definition": "The satisfaction or benefit derived from consuming a good or service.",
+    "example": "Consumers aim to maximize their utility when spending money."
+  },
+  "marginal cost": {
+    "definition": "The cost of producing one more unit of a good.",
+    "example": "If producing one extra bag of rice costs $5, that is the marginal cost."
+  },
+  "marginal benefit": {
+    "definition": "The additional benefit received from consuming one more unit.",
+    "example": "If the benefit of one extra lecture is a better grade, that’s the marginal benefit."
+  },
+  "isoquant": {
+    "definition": "A curve showing all combinations of inputs that yield the same output.",
+    "example": "Firms use isoquants to determine efficient input mixes."
+  },
+  "indifference curve": {
+    "definition": "A graph showing combinations of goods that provide equal satisfaction to a consumer.",
+    "example": "An indifference curve helps analyze consumer preferences."
+  },
+  "price ceiling": {
+    "definition": "A government-imposed limit on how high a price can be charged.",
+    "example": "Rent controls are a type of price ceiling."
+  },
+  "price floor": {
+    "definition": "A government-imposed limit on how low a price can be charged.",
+    "example": "Minimum wage laws are price floors in the labor market."
+  },
+  "depreciation": {
+    "definition": "A decrease in the value of an asset over time.",
+    "example": "The value of the car depreciated after five years."
+  },
+  "appreciation": {
+    "definition": "An increase in the value of an asset or currency.",
+    "example": "The local currency appreciated due to increased exports."
+  },
+  "balance of payments": {
+    "definition": "A record of all financial transactions made between consumers, businesses and the government in one country with others.",
+    "example": "A deficit in the balance of payments can weaken the currency."
+  },
+  "liquidity": {
+    "definition": "The ease with which an asset can be converted into cash.",
+    "example": "Savings accounts offer more liquidity than fixed-term deposits."
+  },
+  "debt": {
+    "definition": "Money borrowed and expected to be paid back with interest.",
+    "example": "Public debt increased due to stimulus spending."
+  },
+  "equity": {
+    "definition": "Ownership in a company, usually in the form of stocks.",
+    "example": "Investors bought equity in the tech startup."
+  },
+  "bond": {
+    "definition": "A fixed income instrument representing a loan made by an investor to a borrower.",
+    "example": "The government issued bonds to fund infrastructure projects."
+  }
+}

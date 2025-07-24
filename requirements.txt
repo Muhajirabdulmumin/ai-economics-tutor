@@ -1,0 +1,6 @@
+streamlit
+gtts
+edge-tts
+googletrans==4.0.0rc1
+asyncio
+pyttsx3
