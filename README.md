@@ -1,6 +1,9 @@
 # 📘 AI Economics Reader
 
 An AI-powered economics tutor, with dictionary that reads, translates, quizzes, and summarizes economic terms with a beautiful interface. Designed for the 3MTT Knowledge Showcase.
+## 🎥 Project Demo Video
+
+[📺 Watch the demo video here](https://youtu.be/tD4ZgLptGeg?si=xGRQTr1lMeWAHsI7)
 
 ## 🔧 Features
 
